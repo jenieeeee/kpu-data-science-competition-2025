@@ -109,6 +109,7 @@ kpu-data-science-competition-2025/
 │
 └── figures/
     └── pipeline.png              # 모델링 파이프라인 다이어그램
+```
 
 ---
 
