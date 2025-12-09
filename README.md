@@ -29,7 +29,7 @@ kpu-data-science-competition-2025/
 ├── README.md
 │
 ├── src/
-│   ├── modeling/
+│   └── modeling/
 │       └── best_model.ipynb       # 리더보드 최고점 모델
 │
 ├── submission/
